@@ -4,6 +4,6 @@
 <b><dt>Konular</dt></b>
 <ul>
   <li>Github</li>
-  <li></li>
+  <li>SQL</li>
   <li></li>
 </ul>
