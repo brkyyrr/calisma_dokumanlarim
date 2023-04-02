@@ -1,5 +1,5 @@
 ## Dokümanlar
-Çalışma amacıyla oluşturduğum ve güncellediğim konulara ait dokümanları burada toplayacağım.
+Çalışma amacıyla oluşturduğum, gerektiğinde bakıp hatırlama amaçlı eklediğim notlardır. Öğrendikçe yeni notları buraya eklemeye devam edeceğim.
 
 <b><dt>Konular</dt></b>
 <ul>
