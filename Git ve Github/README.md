@@ -42,13 +42,10 @@
 - [ ] Add delight to the experience when all tasks are complete :tada:
 </code></pre>
 
-<code>
-
 - [X] https://github.com/octo-org/octo-repo/issues/740
 - [X] #739
 - [ ] Add delight to the experience when all tasks are complete :tada:
-
-</code><br>
+<br>
 
 # **Links**
 <p><code>This site was built using [GitHub Pages](https://pages.github.com/).</code>
