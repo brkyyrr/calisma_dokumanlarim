@@ -7,4 +7,5 @@
   <li>SQL</li>
   <li>Anaconda</li>
   <li>Pandas</li>
+  <li>Numpy</li>
 </ul>
