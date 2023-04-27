@@ -8,4 +8,5 @@
   <li>Anaconda</li>
   <li>Pandas</li>
   <li>Numpy</li>
+  <li>Matplotlib</li>
 </ul>
